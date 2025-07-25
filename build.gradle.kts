@@ -1,2 +1,0 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-// Este archivo ya no necesita declarar plugins directamente cuando se usa settings.gradle.kts para pluginManagement.
